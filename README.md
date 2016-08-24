@@ -35,6 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Semantic Dojo](https://websemantics.github.io/semantic-dojo/): A responsive theme that harnesses the style awesomeness of Semantic-UI framework with [Dojo toolkit](https://dojotoolkit.org/) powerful UI widgets, for modern and elegant web apps.
 
+
 ## Frontend
 
 - [Stardust](http://technologyadvice.github.io/stardust/elements/button): The official Semantic-UI-React library.
@@ -58,6 +59,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Angular Semantic-UI](http://angularify.github.io/angular-semantic-ui/): AngularJS native directives for Semantic UI.
 
 - [React Semantify](http://jessy1092.github.io/react-semantify/): Integrate Semantic-ui with react components.
+
+- [October CMS](https://github.com/christophheich/semantic-ui-octobercms/): Semantic UI - Boilerplate for October CMS.
+
+- [SM Calendar](https://github.com/pinguxx/sm-calendar/): Mithril Semantic-UI calendar widget.
 
 
 ## Examples
