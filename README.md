@@ -33,6 +33,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Semantic Ant](http://websemantics.github.io/semantic-ant): An [Ant Design](http://ant.design/) inspired theme for building beautiful modern Web apps.
 
+- [Semantic Strap](http://websemantics.github.io/semantic-strap): A beautiful CSS toolkit inspired by Semantic-UI and built with Bootstrap 4.
+
 - [Semantic Dojo](https://websemantics.github.io/semantic-dojo/): A responsive theme that harnesses the style awesomeness of Semantic-UI framework with [Dojo toolkit](https://dojotoolkit.org/) powerful UI widgets, for modern and elegant web apps.
 
 
