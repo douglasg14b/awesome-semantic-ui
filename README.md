@@ -39,7 +39,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Backend
 
-- [phpMv-UI](https://github.com/phpMv/phpMv-UI/): A collection of [php components](http://phpmv-ui.kobject.net/index) for Semantic-UI, usable with php and MVC frameworks ([Phalcon](https://phalconphp.com), [Laravel](https://laravel.com), [Yii](http://www.yiiframework.com), [Symfony](https://symfony.com), [CodeIgniter](https://codeigniter.com), [CakePhp](https://cakephp.org)). 
+- [phpMv-UI toolkit](https://github.com/phpMv/phpMv-UI/): A collection of [php visual components](http://phpmv-ui.kobject.net/index) for Semantic-UI, usable with php and MVC frameworks ([Phalcon](https://phalconphp.com), [Laravel](https://laravel.com), [Yii](http://www.yiiframework.com), [Symfony](https://symfony.com), [CodeIgniter](https://codeigniter.com), [CakePhp](https://cakephp.org)). 
 
 
 ## Frontend
