@@ -78,6 +78,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Be Awesome](https://github.com/muhibbudins/beawesome): Single page template with Semantic-UI and jquery.
 
 - [Semantic Admin Template](https://github.com/Copypeng/Semantic-Admin-Template): An Admin template with Semantic-UI.
+
+- [React-Semantic.UI-Starter](https://github.com/Metnew/react-semantic.ui-starter): Production-ready, performance-first, starter built with React/Redux/React-Semantic-UI/Webpack/Jest and Service Workers.
+
 ## Widgets
 
 - [Semantic-UI Range](https://github.com/tyleryasaka/semantic-ui-range): Add-on range slider for Semantic UI.
