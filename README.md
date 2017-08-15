@@ -46,7 +46,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Frontend
 
-- [Stardust](http://technologyadvice.github.io/stardust/elements/button): The official Semantic-UI-React library.
+- [Semantic UI React](https://react.semantic-ui.com/): The official React integration for Semantic UI.
 
 - [Semantic UI Ember](https://github.com/Semantic-Org/Semantic-UI-Ember): Official Semantic UI Integration for Ember.
 
