@@ -79,6 +79,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Strong Together](https://github.com/websemantics/strong-together): A starter project to build single page [Vue.js](https://vuejs.org/) apps as stand-alone or for [Laravel](https://laravel.com/) / [Laravel Spark](https://spark.laravel.com/) projects; based on [Browserify](http://browserify.org/) and Semantic-UI.
 
+- [RemoteRetro](https://github.com/stride-nyc/remote_retro): A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org) written in Elixir/Phoenix/React/Semantic-UI.
+
 - [PyroCMS Cheatsheet](http://websemantics.github.io/pyrocms-cheatsheet/): A list of commands and features for PyroCMS 3 using Semantic-UI.
 
 - [Be Awesome](https://github.com/muhibbudins/beawesome): Single page template with Semantic-UI and jquery.
