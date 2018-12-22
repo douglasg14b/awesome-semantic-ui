@@ -90,7 +90,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Widgets
 
 - [Semantic-UI Range](https://github.com/tyleryasaka/semantic-ui-range): Add-on range slider for Semantic UI.
-
+- [Semanti-UI Hamburger Menu](https://github.com/natzar/semantic-ui-hamburger): Add-on responsive menu + hamburger trigger.
 
 ## Related
 
