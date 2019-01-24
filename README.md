@@ -32,7 +32,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Resources
 
-#### Fomantic UI
+#### Fomantic UI 
+
+[![CDN](https://img.shields.io/badge/jsdeliver-CDN-blue.svg)](https://www.jsdelivr.com/package/npm/fomantic-ui)
 
 - [Fomantic-UI](https://fomantic-ui.com/): A community fork of the ever loved Semantic-UI.
 
@@ -40,23 +42,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Fomantic-UI-SASS](https://github.com/fomantic/Fomantic-UI-SASS): Fomantic UI, converted to SASS and ready to drop into Rails & Compass. 
 
-  ##### CDN:
-
-  - [Fomantic-UI CDN](https://www.jsdelivr.com/package/npm/fomantic-ui)
 
 #### Semantic UI
+
+[![CDN](https://img.shields.io/cdnjs/v/semantic-ui.svg)](https://cdnjs.com/libraries/semantic-ui) [![CDN](https://img.shields.io/badge/jsdeliver-CDN-blue.svg)](https://www.jsdelivr.com/package/npm/semantic-ui) 
 
 - [Semantic-UI](http://semantic-ui.com/): An enterprise-class UI design language and React-based implementation.
 
 - [Semantic-UI-LESS](https://github.com/semantic-org/Semantic-UI-LESS): LESS only distribution of Semantic UI
 
 - [Semantic-UI-SASS](https://github.com/doabit/semantic-ui-sass): Semantic UI, converted to SASS and ready to drop into Rails & Compass. 
-
-  ##### CDN:
-
-  - [Semantic-UI CDN 1](https://www.jsdelivr.com/package/npm/semantic-ui)
-
-  - [Semantic-UI CDN 1](https://cdnjs.com/libraries/semantic-ui)
 
 #### Community
 
