@@ -19,13 +19,38 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table of Contents
+
+- [Resources](#resources)
+- [Themes](#themes)
+- [Backend](#backend)
+- [Frontend](#frontend)
+- [Examples](#examples)
+- [Widgets](#widgets)
+- [Related](#related)
+
 
 ## Resources
 
+#### Fomantic UI
+
 - [Fomantic-UI](https://fomantic-ui.com/): A community fork of the ever loved Semantic-UI.
+
+- [Fomantic-UI-LESS](https://github.com/fomantic/Fomantic-UI-LESS): LESS only distribution of Fomantic UI
+
+- [Fomantic-UI-SASS](https://github.com/fomantic/Fomantic-UI-SASS): Fomantic UI, converted to SASS and ready to drop into Rails & Compass. 
+
+#### Semantic UI
 
 - [Semantic-UI](http://semantic-ui.com/): An enterprise-class UI design language and React-based implementation.
 
+- [Semantic-UI-LESS](https://github.com/semantic-org/Semantic-UI-LESS): LESS only distribution of Semantic UI
+
+- [Semantic-UI-SASS](https://github.com/doabit/semantic-ui-sass): Semantic UI, converted to SASS and ready to drop into Rails & Compass. 
+
+#### Community
+
+- [Fomantic-UI Discord](https://discord.gg/YChxjJ3): Official Discord server for Fomantic-UI discussion
 
 ## Themes
 
@@ -48,27 +73,39 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Frontend
 
-- [Stardust](http://technologyadvice.github.io/stardust/elements/button): The official Semantic-UI-React library.
+#### VueJS
 
-- [Semantic UI Ember](https://github.com/Semantic-Org/Semantic-UI-Ember): Official Semantic UI Integration for Ember.
+- [Semantic-UI-Vue](https://semantic-ui-vue.github.io/): A Semantic-UI-React inspired Vue integration of Semantic-UI
 
-- [React Semantic-UI](https://github.com/jhudson8/react-semantic-ui): A collection of [React](https://facebook.github.io/react/) components for Semantic-UI. 
-
-- [NgSemantic](http://technologyadvice.github.io/stardust/elements/button): The official Semantic-UI-React library.
+- [Transitions](https://github.com/vueui/transitions): Use Semantic-UI transitions as v-transition in Vue.js.
 
 - [Vue UI](http://vueui.github.io/): This is a [port](https://github.com/vueui) of the Semantic-UI modules as Vue.js components.
 
 - [Vue Semantic](https://github.com/CroudSupport/vue-semantic): A collection of vue components for integrating the semantic ui library.
 
-- [Transitions](https://github.com/vueui/transitions): Use Semantic-UI transitions as v-transition in Vue.js.
+#### React
 
-- [Semantic-UI Meteor](https://github.com/Semantic-Org/Semantic-UI-Meteor): Official Semantic UI Integration for Meteor.
+- [React Semantic-UI](https://react.semantic-ui.com/): The official Semantic-UI-React library.
+
+- [React Semantic-UI Components](https://github.com/jhudson8/react-semantic-ui): A collection of [React](https://facebook.github.io/react/) components for Semantic-UI. 
+
+- [React Semantify](http://jessy1092.github.io/react-semantify/): Integrate Semantic-ui with react components.
+
+#### Angular
+
+- [Ng2-Semantic-UI](https://edcarroll.github.io/ng2-semantic-ui/#/getting-started): jQueryless Semantic UI Angular Integrations
+
+#### AngularJS
 
 - [Angular Semantic](https://github.com/caitp/angular-semantic): AngularJS directives for Semantic-UI.
 
-- [Angular Semantic-UI](http://angularify.github.io/angular-semantic-ui/): AngularJS native directives for Semantic UI.
+- [Angular Semantic-UI](https://github.com/angularify/angular-semantic-ui/): AngularJS native directives for Semantic UI.
 
-- [React Semantify](http://jessy1092.github.io/react-semantify/): Integrate Semantic-ui with react components.
+#### Others
+
+- [Semantic UI Ember](https://github.com/Semantic-Org/Semantic-UI-Ember): Official Semantic UI Integration for Ember.
+
+- [Semantic-UI Meteor](https://github.com/Semantic-Org/Semantic-UI-Meteor): Official Semantic UI Integration for Meteor.
 
 - [October CMS](https://github.com/christophheich/semantic-ui-octobercms/): Semantic UI - Boilerplate for October CMS.
 
@@ -76,6 +113,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
 ## Examples
+
+#### Repositories
 
 - [Ting](https://github.com/Aufree/ting): A music social networking project written in Ruby on Rails and Semantic-UI.
 
@@ -90,6 +129,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Semantic Admin Template](https://github.com/Copypeng/Semantic-Admin-Template): An Admin template with Semantic-UI.
 
 - [React-Semantic.UI-Starter](https://github.com/Metnew/react-semantic.ui-starter): Production-ready, performance-first, starter built with React/Redux/React-Semantic-UI/Webpack/Jest and Service Workers.
+
+#### Websites
+
+- [Agile Toolkit](https://www.agiletoolkit.org/): UI and Data Framework for Web Apps
 
 ## Widgets
 
