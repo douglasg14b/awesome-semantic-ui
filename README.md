@@ -13,7 +13,7 @@
 |░░░░░░░░░░░░░░░░░░░░░░░░░░| 
 ```
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of [Semantic-UI](http://semantic-ui.com/) and [Fomantic-UI](https://fomantic-ui.com/) themes, resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date.
 
@@ -32,7 +32,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Resources
 
-#### Fomantic UI
+#### Fomantic UI 
+
+[![CDN](https://img.shields.io/badge/jsdeliver-CDN-blue.svg)](https://www.jsdelivr.com/package/npm/fomantic-ui)
 
 - [Fomantic-UI](https://fomantic-ui.com/): A community fork of the ever loved Semantic-UI.
 
@@ -40,7 +42,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Fomantic-UI-SASS](https://github.com/fomantic/Fomantic-UI-SASS): Fomantic UI, converted to SASS and ready to drop into Rails & Compass. 
 
+
 #### Semantic UI
+
+[![CDN](https://img.shields.io/cdnjs/v/semantic-ui.svg)](https://cdnjs.com/libraries/semantic-ui) [![CDN](https://img.shields.io/badge/jsdeliver-CDN-blue.svg)](https://www.jsdelivr.com/package/npm/semantic-ui) 
 
 - [Semantic-UI](http://semantic-ui.com/): An enterprise-class UI design language and React-based implementation.
 
