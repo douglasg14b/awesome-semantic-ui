@@ -19,6 +19,16 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table of Contents
+
+- [Resources](#resources)
+- [Themes](#themes)
+- [Backend](#backend)
+- [Frontend](#frontend)
+- [Examples](#examples)
+- [Widgets](#widgets)
+- [Related](#related)
+
 
 ## Resources
 
