@@ -38,6 +38,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Semantic-UI-SASS](https://github.com/doabit/semantic-ui-sass): Semantic UI, converted to SASS and ready to drop into Rails & Compass. 
 
+## Community
+
+- [Fomantic-UI Discord](https://discord.gg/YChxjJ3): Official Discord server for Fomantic-UI discussion
 
 ## Themes
 
