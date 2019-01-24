@@ -48,27 +48,41 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Frontend
 
-- [Stardust](http://technologyadvice.github.io/stardust/elements/button): The official Semantic-UI-React library.
+### VueJS
 
-- [Semantic UI Ember](https://github.com/Semantic-Org/Semantic-UI-Ember): Official Semantic UI Integration for Ember.
+- [Semantic-UI-Vue](https://semantic-ui-vue.github.io/): A Semantic-UI-React inspired Vue integration of Semantic-UI
 
-- [React Semantic-UI](https://github.com/jhudson8/react-semantic-ui): A collection of [React](https://facebook.github.io/react/) components for Semantic-UI. 
-
-- [NgSemantic](http://technologyadvice.github.io/stardust/elements/button): The official Semantic-UI-React library.
+- [Transitions](https://github.com/vueui/transitions): Use Semantic-UI transitions as v-transition in Vue.js.
 
 - [Vue UI](http://vueui.github.io/): This is a [port](https://github.com/vueui) of the Semantic-UI modules as Vue.js components.
 
 - [Vue Semantic](https://github.com/CroudSupport/vue-semantic): A collection of vue components for integrating the semantic ui library.
 
-- [Transitions](https://github.com/vueui/transitions): Use Semantic-UI transitions as v-transition in Vue.js.
+### React
 
-- [Semantic-UI Meteor](https://github.com/Semantic-Org/Semantic-UI-Meteor): Official Semantic UI Integration for Meteor.
+- [Stardust-UI React](https://stardust-ui.github.io/react/): A fork of Semantic-UI-React built as an exemplar of the Stardust UI design language, component specifications, and utilities using vanilla JavaScript.
+
+- [React Semantic-UI](https://react.semantic-ui.com/): The official Semantic-UI-React library.
+
+- [React Semantic-UI Components](https://github.com/jhudson8/react-semantic-ui): A collection of [React](https://facebook.github.io/react/) components for Semantic-UI. 
+
+- [React Semantify](http://jessy1092.github.io/react-semantify/): Integrate Semantic-ui with react components.
+
+### Angular
+
+- [Ng2-Semantic-UI](https://edcarroll.github.io/ng2-semantic-ui/#/getting-started): jQueryless Semantic UI Angular Integrations
+
+### AngularJS
 
 - [Angular Semantic](https://github.com/caitp/angular-semantic): AngularJS directives for Semantic-UI.
 
-- [Angular Semantic-UI](http://angularify.github.io/angular-semantic-ui/): AngularJS native directives for Semantic UI.
+- [Angular Semantic-UI](https://github.com/angularify/angular-semantic-ui/): AngularJS native directives for Semantic UI.
 
-- [React Semantify](http://jessy1092.github.io/react-semantify/): Integrate Semantic-ui with react components.
+### Others
+
+- [Semantic UI Ember](https://github.com/Semantic-Org/Semantic-UI-Ember): Official Semantic UI Integration for Ember.
+
+- [Semantic-UI Meteor](https://github.com/Semantic-Org/Semantic-UI-Meteor): Official Semantic UI Integration for Meteor.
 
 - [October CMS](https://github.com/christophheich/semantic-ui-octobercms/): Semantic UI - Boilerplate for October CMS.
 
