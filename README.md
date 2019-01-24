@@ -13,7 +13,7 @@
 |░░░░░░░░░░░░░░░░░░░░░░░░░░| 
 ```
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of [Semantic-UI](http://semantic-ui.com/) and [Fomantic-UI](https://fomantic-ui.com/) themes, resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date.
 
