@@ -15,7 +15,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of [Semantic-UI](http://semantic-ui.com/) and [Fomantic-UI](https://fomantic-ui.com/) themes, resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date.
+> A curated list of [Semantic-UI](http://semantic-ui.com/) and [Fomantic-UI](https://fomantic-ui.com/) themes, resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations related to Semantic/Fomantic.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
