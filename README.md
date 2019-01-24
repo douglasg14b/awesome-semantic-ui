@@ -60,8 +60,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### React
 
-- [Stardust-UI React](https://stardust-ui.github.io/react/): A fork of Semantic-UI-React built as an exemplar of the Stardust UI design language, component specifications, and utilities using vanilla JavaScript.
-
 - [React Semantic-UI](https://react.semantic-ui.com/): The official Semantic-UI-React library.
 
 - [React Semantic-UI Components](https://github.com/jhudson8/react-semantic-ui): A collection of [React](https://facebook.github.io/react/) components for Semantic-UI. 
@@ -91,6 +89,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Examples
 
+### Repositories
+
 - [Ting](https://github.com/Aufree/ting): A music social networking project written in Ruby on Rails and Semantic-UI.
 
 - [Strong Together](https://github.com/websemantics/strong-together): A starter project to build single page [Vue.js](https://vuejs.org/) apps as stand-alone or for [Laravel](https://laravel.com/) / [Laravel Spark](https://spark.laravel.com/) projects; based on [Browserify](http://browserify.org/) and Semantic-UI.
@@ -104,6 +104,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Semantic Admin Template](https://github.com/Copypeng/Semantic-Admin-Template): An Admin template with Semantic-UI.
 
 - [React-Semantic.UI-Starter](https://github.com/Metnew/react-semantic.ui-starter): Production-ready, performance-first, starter built with React/Redux/React-Semantic-UI/Webpack/Jest and Service Workers.
+
+### Websites
+
+- [Agile Toolkit](https://www.agiletoolkit.org/): UI and Data Framework for Web Apps
 
 ## Widgets
 
