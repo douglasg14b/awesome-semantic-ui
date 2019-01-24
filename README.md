@@ -22,8 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Resources
 
-- [Fomantic-UI](https://fomantic-ui.com/): A community fork of the ever loved framework Semantic -UI
-  - [Repository](https://github.com/fomantic/Fomantic-UI)
+- [Fomantic-UI](https://fomantic-ui.com/): A community fork of the ever loved Semantic-UI.
 
 - [Semantic-UI](http://semantic-ui.com/): An enterprise-class UI design language and React-based implementation.
 
