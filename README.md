@@ -34,7 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Fomantic UI 
 
-[![CDN](https://img.shields.io/npm/v/fomantic-ui.svg?label=jsdeliver)](https://www.jsdelivr.com/package/npm/fomantic-ui)
+[![](https://data.jsdelivr.com/v1/package/npm/fomantic-ui/badge?style=rounded)](https://www.jsdelivr.com/package/npm/fomantic-ui)
 
 - [Fomantic-UI](https://fomantic-ui.com/): A community fork of the ever loved Semantic-UI.
 
@@ -45,7 +45,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Semantic UI
 
-[![](https://img.shields.io/cdnjs/v/semantic-ui.svg)](https://cdnjs.com/libraries/semantic-ui) [![CDN](https://img.shields.io/npm/v/semantic-ui.svg?label=jsdeliver)](https://www.jsdelivr.com/package/npm/semantic-ui) 
+[![](https://data.jsdelivr.com/v1/package/npm/semantic-ui/badge?style=rounded)](https://www.jsdelivr.com/package/npm/semantic-ui)
+![](https://img.shields.io/cdnjs/v/semantic-ui.svg)
 
 - [Semantic-UI](http://semantic-ui.com/): An enterprise-class UI design language and React-based implementation.
 
