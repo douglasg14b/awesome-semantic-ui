@@ -37,7 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![](https://img.shields.io/badge/dynamic/json.svg?label=jsdelivr&url=https%3A%2F%2Fdata.jsdelivr.com%2Fv1%2Fpackage%2Fnpm%2Ffomantic-ui&query=%24.tags.latest&colorB=blue)](https://www.jsdelivr.com/package/npm/fomantic-ui)
 
-- [Fomantic-UI](https://fomantic-ui.com/): A community fork of the ever loved Semantic-UI.
+- [Fomantic-UI](https://fomantic-ui.com/): A community fork of the ever loved Semantic-UI. <sub>![](https://img.shields.io/github/last-commit/fomantic/Fomantic-UI.svg?style=flat-square)</sub>
 
 - [Fomantic-UI-LESS](https://github.com/fomantic/Fomantic-UI-LESS): LESS only distribution of Fomantic UI
 
@@ -49,7 +49,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [![](https://img.shields.io/badge/dynamic/json.svg?label=jsdelivr&url=https%3A%2F%2Fdata.jsdelivr.com%2Fv1%2Fpackage%2Fnpm%2Fsemantic-ui&query=%24.tags.latest&colorB=blue)](https://www.jsdelivr.com/package/npm/semantic-ui)
 [![](https://img.shields.io/badge/dynamic/json.svg?label=cdnjs&url=https%3A%2F%2Fapi.cdnjs.com%2Flibraries%2Fsemantic-ui%3Ffields%3Dversion&query=%24.version&colorB=blue)](https://cdnjs.com/libraries/semantic-ui)
 
-- [Semantic-UI](http://semantic-ui.com/): An enterprise-class UI design language and React-based implementation.
+- [Semantic-UI](http://semantic-ui.com/): An enterprise-class UI design language and React-based implementation. <sub>![](https://img.shields.io/github/last-commit/Semantic-Org/Semantic-UI.svg?style=flat-square)</sub>
 
 - [Semantic-UI-LESS](https://github.com/semantic-org/Semantic-UI-LESS): LESS only distribution of Semantic UI
 
@@ -61,11 +61,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Themes
 
-- [Open Theme](https://github.com/manavsehgal/opentheme): Powerful new theme featuring Semantic-UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.
+- [Open Theme](https://github.com/manavsehgal/opentheme): Powerful new theme featuring Semantic-UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.<sub><img src="https://img.shields.io/github/last-commit/manavsehgal/opentheme.svg?style=flat-square" height="17px" ></sub>
 
-- [Recreating GitHub](https://github.com/Semantic-Org/example-github): A Semantic-UI project designed to showcase theming with examples to create a packaged theme, using component CSS overrides, and managing themes with `theme.config`.
+- [Recreating GitHub](https://github.com/Semantic-Org/example-github): A Semantic-UI project designed to showcase theming with examples to create a packaged theme, using component CSS overrides, and managing themes with `theme.config`. <sub><img src="https://img.shields.io/github/last-commit/Semantic-Org/example-github.svg?style=flat-square" height="17px" ></sub>
 
-- [Semantic Ant](http://websemantics.github.io/semantic-ant): An [Ant Design](http://ant.design/) inspired theme for building beautiful modern Web apps.
+- [Semantic Ant](http://websemantics.github.io/semantic-ant): An [Ant Design](http://ant.design/) inspired theme for building beautiful modern Web apps. <sub><img src="https://img.shields.io/github/last-commit/websemantics/semantic-ant.svg?style=flat-square" height="17px" ></sub>
 
 - [Semantic Strap](http://websemantics.github.io/semantic-strap): A beautiful CSS toolkit inspired by Semantic-UI and built with Bootstrap 4.
 
@@ -82,11 +82,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### VueJS
 
-- [Semantic-UI-Vue](https://semantic-ui-vue.github.io/): A Semantic-UI-React inspired Vue integration of Semantic-UI
+- [Semantic-UI-Vue](https://semantic-ui-vue.github.io/): A Semantic-UI-React inspired Vue integration of Semantic-UI <sub><img src="https://img.shields.io/github/last-commit/Semantic-UI-Vue/Semantic-UI-Vue.svg?style=flat-square" height="17px" ></sub>
 
-- [Transitions](https://github.com/vueui/transitions): Use Semantic-UI transitions as v-transition in Vue.js.
+- [Transitions](https://github.com/vueui/transitions): Use Semantic-UI transitions as v-transition in Vue.js. <sub><img src="https://img.shields.io/github/last-commit/vueui/transitions.svg?style=flat-square" height="17px" ></sub>
 
-- [Vue UI](http://vueui.github.io/): This is a [port](https://github.com/vueui) of the Semantic-UI modules as Vue.js components.
+- [Vue UI](http://vueui.github.io/): This is a [port](https://github.com/vueui) of the Semantic-UI modules as Vue.js components. <sub><img src="https://img.shields.io/github/last-commit/vueui/vue-ui.svg?style=flat-square" height="17px" ></sub>
 
 - [Vue Semantic](https://github.com/CroudSupport/vue-semantic): A collection of vue components for integrating the semantic ui library.
 
