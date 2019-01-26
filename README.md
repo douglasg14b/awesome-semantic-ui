@@ -34,7 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Fomantic UI 
 
-[![](https://img.shields.io/badge/dynamic/json.svg?label=jsdelivr&url=https%3A%2F%2Fdata.jsdelivr.com%2Fv1%2Fpackage%2Fnpm%2Ffomantic-ui&query=%24.tags.latest&colorB=blue)
+![](https://img.shields.io/badge/dynamic/json.svg?label=jsdelivr&url=https%3A%2F%2Fdata.jsdelivr.com%2Fv1%2Fpackage%2Fnpm%2Ffomantic-ui&query=%24.tags.latest&colorB=blue)
 
 - [Fomantic-UI](https://fomantic-ui.com/): A community fork of the ever loved Semantic-UI.
 
