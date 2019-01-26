@@ -148,6 +148,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Bragit](http://websemantics.github.io/bragit/): Show off your Github repository buttons with elegance using Semantic-ui labeled buttons.
 
+## Fomantic?
+
+#### What is Fomantic-UI?
+[Fomantic-UI](https://github.com/fomantic/Fomantic-UI) (also known as FUI) is a community fork of Semantic-UI. coo
+
+#### Why was it made?
+Fomantic-UI (FUI) was created to continue active development of Semantic-UI and has the intent to be merged back into the master repository once active development can restart. For more info please read the following issues [Semantic-Org/Semantic-UI/issues/6109](https://github.com/Semantic-Org/Semantic-UI/issues/6109) [Semantic-Org/Semantic-UI/issues/6413](https://github.com/Semantic-Org/Semantic-UI/issues/6413). With that said FUI is currently in the planning stage of a rewrite known as v3. You can find out more about the v3 plans [here](https://github.com/fomantic/Fomantic-UI/issues/319).
+
+#### Should I use FUI instead of SUI?
+Currently FUI is a drop in replacement of SUI with lots of bug fixes and new features and also has some new components including a calendar and slider module 😍. If you want a more updated framework then yes you should definitely switch to FUI.
 
 ## Contributing
 
