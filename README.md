@@ -146,6 +146,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Semantic-UI Range](https://github.com/tyleryasaka/semantic-ui-range): Add-on range slider for Semantic UI.
 - [Semanti-UI Hamburger Menu](https://github.com/natzar/semantic-ui-hamburger): Add-on responsive menu + hamburger trigger.
+- [Fomantic-UI-Examples](https://github.com/perezdev/FUIExamples): A collection of FUI examples such as a password strength box during user account signup
 
 ## Related
 
