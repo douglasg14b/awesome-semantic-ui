@@ -138,9 +138,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [React-Semantic.UI-Starter](https://github.com/Metnew/react-semantic.ui-starter): Production-ready, performance-first, starter built with React/Redux/React-Semantic-UI/Webpack/Jest and Service Workers.
 
-#### Websites
+#### Functioning Websites
 
 - [Agile Toolkit](https://www.agiletoolkit.org/): UI and Data Framework for Web Apps
+- [Elux](https://elux.ee/): Estonian top home appliances e-shop
 
 ## Widgets
 
