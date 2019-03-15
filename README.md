@@ -142,6 +142,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Agile Toolkit](https://www.agiletoolkit.org/): UI and Data Framework for Web Apps
 - [Elux](https://elux.ee/): Estonian top home appliances e-shop
+- [Polipart](https://www.polipart.fr/):  French political site to help get more individuals involved in politics
 
 ## Widgets
 
