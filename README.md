@@ -146,6 +146,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Widgets
 
+- [weather-widget](https://github.com/kathawala/weather-widget): A weather widget which can be dropped in with a single `<script>` tag to any website, built with Fomantic UI.
 - [Semantic-UI Range](https://github.com/tyleryasaka/semantic-ui-range): Add-on range slider for Semantic UI.
 - [Semanti-UI Hamburger Menu](https://github.com/natzar/semantic-ui-hamburger): Add-on responsive menu + hamburger trigger.
 - [Fomantic-UI-Examples](https://github.com/perezdev/FUIExamples): A collection of FUI examples such as a password strength box during user account signup
